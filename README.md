@@ -1,9 +1,6 @@
-# bootstrap_batch_programs 
+# Bootstrap code samples
 
-## Welcome 1 
+This repository is meant to share bootstrap code during lecture with the students of **Lavatech Technology**.
 
-### Welcome 3
+<hr>
 
-* Code 1
-* COde 2
-* Code 3
